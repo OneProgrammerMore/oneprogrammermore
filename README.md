@@ -4,7 +4,7 @@
 - 🌱 Learning about Golang while building a new application using microservices, G-RPC and PySpark for Big Data.
 - 🔭 Looking for a job opportunity in the Web Development or the Big Data sector.
   - Able to work with PySpark, Apache Hadoop, PHP, JS, React, Python and soon Golang in a professional way. (As other tools like docker/docker-compose, git, bash script and more)
-
+- ✅ Check my [temporal portfolio](https://oneprogrammermore.github.io/ ) for more info about me.
 
 
 <!--
